@@ -1,10 +1,8 @@
-# Downloads
+# Downloaded list :
 
----
-
-## NO FILE DOWNLOADED YET!
-
-Use the download workflows to add files here.
+- [details](./details)
+- [vid_480p](./vid_480p)
+- [view_video](./view_video)
 
 ---
 
