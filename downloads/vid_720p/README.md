@@ -7,7 +7,7 @@
 | Property | Value |
 |----------|-------|
 | **Original File** | `vid_720p.mp4` |
-| **Total Size** | **13 parts** - **572.15 MB** |
+| **Total Size** | **16 parts** - **695.67 MB** |
 | **Status** | **Complete (100%)** |
 | **Password Protected** | **NO** |
 
@@ -29,7 +29,10 @@
 | 10 | `vid_720p.z10` | [Download](https://github.com/ahmizh4z-code/downloader-avasam/raw/main/downloads/vid_720p/vid_720p.z10) |
 | 11 | `vid_720p.z11` | [Download](https://github.com/ahmizh4z-code/downloader-avasam/raw/main/downloads/vid_720p/vid_720p.z11) |
 | 12 | `vid_720p.z12` | [Download](https://github.com/ahmizh4z-code/downloader-avasam/raw/main/downloads/vid_720p/vid_720p.z12) |
-| 13 | `vid_720p.zip` | [Download](https://github.com/ahmizh4z-code/downloader-avasam/raw/main/downloads/vid_720p/vid_720p.zip) |
+| 13 | `vid_720p.z13` | [Download](https://github.com/ahmizh4z-code/downloader-avasam/raw/main/downloads/vid_720p/vid_720p.z13) |
+| 14 | `vid_720p.z14` | [Download](https://github.com/ahmizh4z-code/downloader-avasam/raw/main/downloads/vid_720p/vid_720p.z14) |
+| 15 | `vid_720p.z15` | [Download](https://github.com/ahmizh4z-code/downloader-avasam/raw/main/downloads/vid_720p/vid_720p.z15) |
+| 16 | `vid_720p.zip` | [Download](https://github.com/ahmizh4z-code/downloader-avasam/raw/main/downloads/vid_720p/vid_720p.zip) |
 
 ---
 
