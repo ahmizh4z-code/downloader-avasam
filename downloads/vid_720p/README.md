@@ -7,7 +7,7 @@
 | Property | Value |
 |----------|-------|
 | **Original File** | `vid_720p.mp4` |
-| **Total Size** | **29 parts** - **1271.60 MB** |
+| **Total Size** | **47 parts** - **2093.00 MB** |
 | **Status** | **Complete (100%)** |
 | **Password Protected** | **NO** |
 
@@ -45,7 +45,25 @@
 | 26 | `vid_720p.z26` | [Download](https://github.com/ahmizh4z-code/downloader-avasam/raw/main/downloads/vid_720p/vid_720p.z26) |
 | 27 | `vid_720p.z27` | [Download](https://github.com/ahmizh4z-code/downloader-avasam/raw/main/downloads/vid_720p/vid_720p.z27) |
 | 28 | `vid_720p.z28` | [Download](https://github.com/ahmizh4z-code/downloader-avasam/raw/main/downloads/vid_720p/vid_720p.z28) |
-| 29 | `vid_720p.zip` | [Download](https://github.com/ahmizh4z-code/downloader-avasam/raw/main/downloads/vid_720p/vid_720p.zip) |
+| 29 | `vid_720p.z29` | [Download](https://github.com/ahmizh4z-code/downloader-avasam/raw/main/downloads/vid_720p/vid_720p.z29) |
+| 30 | `vid_720p.z30` | [Download](https://github.com/ahmizh4z-code/downloader-avasam/raw/main/downloads/vid_720p/vid_720p.z30) |
+| 31 | `vid_720p.z31` | [Download](https://github.com/ahmizh4z-code/downloader-avasam/raw/main/downloads/vid_720p/vid_720p.z31) |
+| 32 | `vid_720p.z32` | [Download](https://github.com/ahmizh4z-code/downloader-avasam/raw/main/downloads/vid_720p/vid_720p.z32) |
+| 33 | `vid_720p.z33` | [Download](https://github.com/ahmizh4z-code/downloader-avasam/raw/main/downloads/vid_720p/vid_720p.z33) |
+| 34 | `vid_720p.z34` | [Download](https://github.com/ahmizh4z-code/downloader-avasam/raw/main/downloads/vid_720p/vid_720p.z34) |
+| 35 | `vid_720p.z35` | [Download](https://github.com/ahmizh4z-code/downloader-avasam/raw/main/downloads/vid_720p/vid_720p.z35) |
+| 36 | `vid_720p.z36` | [Download](https://github.com/ahmizh4z-code/downloader-avasam/raw/main/downloads/vid_720p/vid_720p.z36) |
+| 37 | `vid_720p.z37` | [Download](https://github.com/ahmizh4z-code/downloader-avasam/raw/main/downloads/vid_720p/vid_720p.z37) |
+| 38 | `vid_720p.z38` | [Download](https://github.com/ahmizh4z-code/downloader-avasam/raw/main/downloads/vid_720p/vid_720p.z38) |
+| 39 | `vid_720p.z39` | [Download](https://github.com/ahmizh4z-code/downloader-avasam/raw/main/downloads/vid_720p/vid_720p.z39) |
+| 40 | `vid_720p.z40` | [Download](https://github.com/ahmizh4z-code/downloader-avasam/raw/main/downloads/vid_720p/vid_720p.z40) |
+| 41 | `vid_720p.z41` | [Download](https://github.com/ahmizh4z-code/downloader-avasam/raw/main/downloads/vid_720p/vid_720p.z41) |
+| 42 | `vid_720p.z42` | [Download](https://github.com/ahmizh4z-code/downloader-avasam/raw/main/downloads/vid_720p/vid_720p.z42) |
+| 43 | `vid_720p.z43` | [Download](https://github.com/ahmizh4z-code/downloader-avasam/raw/main/downloads/vid_720p/vid_720p.z43) |
+| 44 | `vid_720p.z44` | [Download](https://github.com/ahmizh4z-code/downloader-avasam/raw/main/downloads/vid_720p/vid_720p.z44) |
+| 45 | `vid_720p.z45` | [Download](https://github.com/ahmizh4z-code/downloader-avasam/raw/main/downloads/vid_720p/vid_720p.z45) |
+| 46 | `vid_720p.z46` | [Download](https://github.com/ahmizh4z-code/downloader-avasam/raw/main/downloads/vid_720p/vid_720p.z46) |
+| 47 | `vid_720p.zip` | [Download](https://github.com/ahmizh4z-code/downloader-avasam/raw/main/downloads/vid_720p/vid_720p.zip) |
 
 ---
 
